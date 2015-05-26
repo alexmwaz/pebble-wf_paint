@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alexmw",
+    "longName": "Paint",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Paint",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "3951736a-e2cb-49b0-9a95-4bcb689c4b6d",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
